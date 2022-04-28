@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz-shresth&label=Profile%20views&color=0e75b6&style=flat" alt="Kshitiz Shrestha" /> </p>
 
-- 🌱 I’m currently learning **Golang**, **DevOps**
+- 🌱 I’m currently learning **Golang**, **DevOps**, **GO Gin**
 
 - 💬 Ask me about **tech**
 
