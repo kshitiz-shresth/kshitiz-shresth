@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Golang**, **DevOps**, **GO Gin**
 
-- 💬 Ask me about **tech**
-
 - 📫 How to reach me **er.kshitizshrestha@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
