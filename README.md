@@ -19,7 +19,7 @@ Hey there! I’m a **Fullstack Developer** who’s been coding since the days of
 Leadership, Project Management, Client Handling
 
 **🚀 What I Do:**  
-From crafting stunning UI elements to orchestrating seamless server-side operations, I bring projects to life. Whether it’s a cutting-edge web app or a solid API, I’m your go-to developer. 🌐✨
+From crafting stunning UI elements to orchestrating seamless server-side operations, I bring projects to life.🌐✨
 
 **🎮 Fun Fact:**  
 When I’m not knee-deep in code, I enjoy being creative. 🕹️🎨🎸
