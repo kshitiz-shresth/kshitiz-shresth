@@ -53,7 +53,7 @@ Hey there! I’m a **Fullstack Developer** who’s been coding since the days of
 
 ## What I Do:
 
-From crafting stunning UI elements to orchestrating seamless server-side operations, I bring your projects to life. Whether it's a cutting-edge web app or a solid API, I’m your go-to developer. 🌐🚀
+From crafting stunning UI elements to orchestrating seamless server-side operations, I bring projects to life. Whether it's a cutting-edge web app or a solid API, I’m a go-to developer. 🌐🚀
 
 ## Fun Fact:
 
