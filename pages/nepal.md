@@ -1,4 +1,4 @@
-# Nepal
+# Nepal is a beautiful country
 <img width="1168" alt="image" src="https://github.com/user-attachments/assets/c784eed6-04e4-4147-83e5-c1650a92643a">
 
 ## Overview
