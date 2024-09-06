@@ -13,6 +13,8 @@ Nepal is a landlocked country located in South Asia, nestled between China to th
 - **Major Mountain Ranges:** Himalayas, including Mount Everest, the world's highest peak.
 - **Major Rivers:** Ganges, Brahmaputra, Koshi, and Gandaki.
 
+<img width="582" alt="image" src="https://github.com/user-attachments/assets/7fd239fd-f864-4c4a-9bbf-9d55f2e82ce1">
+
 ## Culture
 
 Nepal's culture is a vibrant blend of Hindu and Buddhist traditions, with influences from various ethnic groups and regions. Key cultural elements include:
