@@ -1,5 +1,6 @@
 # Nepal
 <img width="1168" alt="image" src="https://github.com/user-attachments/assets/c784eed6-04e4-4147-83e5-c1650a92643a">
+
 ## Overview
 
 Nepal is a landlocked country located in South Asia, nestled between China to the north and India to the south, east, and west. It is renowned for its stunning natural landscapes, including the towering Himalayas, and its rich cultural heritage.
