@@ -3,7 +3,7 @@
 **Who Am I?**  
 Hey there! I’m a **Fullstack Developer** who’s been coding since the days of floppy disks and dial-up modems. 💾📞🖥️
 
-![Coding Animation](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNiMnlzbHFjM2VxYmk3enFlczhuc3hxOTZic3Rud25qdjM1ZndrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif)
+<img alt="image" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTNiMnlzbHFjM2VxYmk3enFlczhuc3hxOTZic3Rud25qdjM1ZndrZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gi84IkFRzwube/giphy.gif">
 
 **Tech Stack Extravaganza:**
 
