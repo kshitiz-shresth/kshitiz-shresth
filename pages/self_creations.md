@@ -28,7 +28,7 @@
 
 ## 🌉 Bridge  
 **Jaba timi chheu mai hunxau taba**  
-**Hasiranchu khai kina ho mata**  
+**Hasirahanchu la hai ni mata**  
 **Timmro saath le, rangiyo sansara**  
 **Man yo bagisakyo timrai tira** *(x2)*
 
