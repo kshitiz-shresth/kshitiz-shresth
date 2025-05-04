@@ -26,7 +26,49 @@ Zindagi mero badliyo  *(x2)*
 
 ---
 
-### [Verse 2]  
-*Coming soon...*
+### [Bridge] 
+jaba timi cheu mai hunxau taba
+hasiranchu khai kina ho mata
+timmro saath le, rangiyo sansara
+man yo bagisakyo timrai tira  *(x2)*
+
+---
+
+### [Verse 2]  //Need to change
+Mero euta sapana  
+Mero euta chaahana  
+Sadhai paaos timilai  
+Bhetne euta bahana  
+
+---
+
+### [Pre-Chorus]  
+Jaba timi ayeu jiwan ma mero  
+
+---
+
+### [Chorus]  
+Zindagi mero badliyo  
+Zindagi mero badliyo  *(x2)*
+
+
+Repeat
+
+### [Verse]  
+Mero euta sapana  
+Mero euta chaahana  
+Sadhai paaos timilai  
+Bhetne euta bahana  
+
+---
+
+### [Pre-Chorus]  
+Jaba timi ayeu jiwan ma mero  
+
+---
+
+### [Chorus]  
+Zindagi mero badliyo  
+Zindagi mero badliyo  *(x2)*
 
 ---
