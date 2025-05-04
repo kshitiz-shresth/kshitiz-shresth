@@ -38,7 +38,7 @@
 **Gham lageko yo jivanma**  
 **Bani aayi diyeu chaaya**  
 **Adhuro mero manama**  
-**Haso bhari diyau maya**
+**Khusi bhari diyau maya**
 
 ---
 
